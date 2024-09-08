@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Computer Science at TUM University
-🔭 I’m currently working on an NLP web application for Hate Speech and Misogyny detection (which was part of my Master's Thesis "Fine-grained Sexism Detection in Italian Newspapers)
+- 🌱 I’m currently learning Computer Science at TUM University \n
+
+- 🔭 I’m currently working on an NLP web application for Hate Speech and Misogyny detection (which was part of my Master's Thesis "Fine-grained Sexism Detection in Italian Newspapers)
